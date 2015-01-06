@@ -1,0 +1,12 @@
+# Site settings
+title: Martin Ingesen
+email: martin@ingesen.no
+description: > # this means to ignore newlines until "baseurl:"
+  The blog of a IT student studying programming and with a passion for security.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://martin.ingesen.no" # the base hostname & protocol for your site
+twitter_username: mrtn9
+github_username:  MartinIngesen
+
+# Build settings
+markdown: kramdown
