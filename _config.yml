@@ -1,5 +1,7 @@
 # Site settings
 title: Martin Ingesen
+name: Martin Ingesen
+author: Martin Ingesen
 email: martin@ingesen.no
 description: > # this means to ignore newlines until "baseurl:"
   A IT student studying programming, with a passion for web security.
