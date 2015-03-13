@@ -27,7 +27,7 @@ Det viser seg at for snaue 250 kroner, kan hvem som helst få en ECU til å lese
 
 ### Fjerntilgang
 
-Se for deg følgende: En person kan sitter på en strand i Australia. Sola skinner . og han koser seg med et bilspill på iPhonen sin. Bara det ikke er et spill. I stedet har han hacket bilen din, og er i ferd med å styre den ut i grøften - med deg og ungene i den.
+Se for deg følgende: En person kan sitter på en strand i Australia. Sola skinner, og han koser seg med et bilspill på iPhonen sin. Bare at det ikke er et spill. I stedet har han hacket bilen din, og er i ferd med å styre den ut i grøften - med deg og ungene i den.
 
 Dette scenariet er kanskje ikke så utenkelig som du skulle ønske. For hva er det mange biler i dag har - som muligens kan være sårbare for fjernangrep? Høres "ring bilen varm"-funksjonen kjent ut? Hva med den innebygde telefonen som tillater deg å ringe og motta samtaler  (*Telematic Control Unit, TCU*)? Hva med nødkommunikasjonsenheten (*Emergency Communication System, ECS*) som ringer 113 hvis du havner i en ulykke? Eller for et litt mindre fjernt angrep, hva med blåtann-tilkoplingen bilen din tilbyr for å spille av musikk fra mobilen?
 
