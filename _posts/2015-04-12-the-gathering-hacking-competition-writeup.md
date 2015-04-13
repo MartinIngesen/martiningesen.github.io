@@ -62,7 +62,7 @@ Vi ble gitt en offentlig nøkkel og en chiffertekst som vi måtte dekryptere.
 
 Vi antok raskt at det var snakk om en svak privat nøkkel, og kom fort frem til at den mulige fremgangsmåten var et såkalt [Wiener's attack](http://en.wikipedia.org/wiki/Wiener's_attack).
 
-Ved å benytte et Python-script fant vi eksponenten og modulusen fra den offentlige nøkkelen. På denne måte var det bare å sette de sammen til en private nøkkel, slik at vi kunne dekryptere meldingen og få token.
+Ved å benytte et [Python-script](https://github.com/pablocelayes/rsa-wiener-attack) fant vi eksponenten og modulusen fra den offentlige nøkkelen. På denne måte var det bare å sette de sammen til en private nøkkel, slik at vi kunne dekryptere meldingen og få token.
 
 ##Web
 
