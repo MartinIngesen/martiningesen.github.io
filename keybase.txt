@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/martiningesen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://martin.ingesen.no
+  * I am martiningesen (https://keybase.io/martiningesen) on keybase.
+  * I have a public key with fingerprint 4F53 89AD 88C0 71EF 3320  4CD5 D78F BD59 CD63 8BB3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4f5389ad88c071ef33204cd5d78fbd59cd638bb3",
+            "host": "keybase.io",
+            "key_id": "d78fbd59cd638bb3",
+            "kid": "0101b7cc252e85fca6e43c9142e0d273acd1f7feb8e3110f8791fb14a2b5225a99b70a",
+            "uid": "93777244d3799d014d6fce46f638fc19",
+            "username": "martiningesen"
+        },
+        "service": {
+            "hostname": "martin.ingesen.no",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436984260,
+    "expire_in": 157680000,
+    "prev": "2a6ba0c4ca031cce90285a7438eb8357376e8f1dca9a25246c0a191810286592",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkn9MVWUYxy+IDhAHi8CKm7WDtGZ0O79/XNHAcJbKD23XKGXXc97zHu6JuPdy
+77lcQK8gNAQkQGYCRSaCLOEiAxPXqCW/pkJQmgyTLQM2obU1QS7LZNA5zP5o6/3n
+3fs8n+f7PN9nb/WGNbpgv/Gq794fAScv+w3/LuhMLU3XjyCCTcxDjEeQTLh6SbI1
+AzrsDtmqIEaElCiC5XiRZQHKYFAiCBwlgUiJDCsJIsUBkSZYQSCQWMRic2oVqozA
+O6FBtqkx9WGWRTX6P3zmagLFUExgAMApHLKUBHgakgTgMBKHqIgzBA9ETGIkKLCQ
+wDBUYhkOkwSM5HGBwnGK5ziBQXlVzrUqxxEMw+AkKRIMx4koRoq0BCBJS2pbCWCc
+Bjqhw8pnQZXO4h2KbNUMO6EV8cQiaipHBlDbg2bnP5jhKWewas7sDptiA7aP1LRF
+UexGrVrJs2u4Gwrmp0JmQbaKap1akAMdTtlmRYyYSgJF1pQxkqA5lsRpNBaBuXbZ
+Ac2yRlAMzaLq0drAHFUS52mBRwEJeJTAAIAcirMUz5AEqy6GoBiCoSErYSLgOV7d
+JEkDlMc4jMVUjqY4HNGsZauDG2l1TD5DlXSulzOsvOJyQMQTXOavD9D5BevWrfXX
+PoUuOCjs35+SPxi6bCi/zeaF3ZiD8zAgOX9skh4I5e/mtuvTarbVyLeSv+9316ad
+iFkTmRrjeySyS+jlqcTRq19HbN6bHeVXprt2b6Y5abHDZ/EUDE2+cTGQECfj04vy
+I3Dy5W1j902ZAzpvS3+yra+CRuomPmNDztUQiy+NVv5im1R+/eZsYMq7Sm/jgM78
+oLBTCr/zfP6OEKXrufvu9uJnxq/91Amv9Cx9OxdXUfZDQnrka0uBDaV6Q/jNvpJ7
++K4IY8jMnj8OdjfdPnDx2Z5XL5WMXTm9r6nsQsKdochaqroijXjoeZA6Wtz69ubY
+xa1vdkwonTdmX3SScdRImKe4fcEL/Of3J+nB4PGABJNQPnt+qDX4hbvY0A7Xhz+v
+LW9cOFY6SKKf9Bjn6ndf2joR2nh8e3xQSVB3dKnl8xGxfk/Zob9sron+luGo6U2t
+V8+VxkvFC+FE4i330X3euMG+Pz9tSNr78aadXzxJ2V+YUXUdm6Z6u2aTN0A0/vH0
+sK8taYt/mJl0vff3B4tfHr5ZaflKOXA0vfa3H8sjDzVc6PAW1BdFbezUN7edb37L
+fz70cVg4edIg+wrOnoiOeadyubptNrvkldTlkqknpxIEb+suuvBw7nhS9EZXit3e
+HDTS66gzZRWZVo6dnjF0nVm/DnnYV+48uOK2VNVt2T7rSxxSumsb7Kkrj+jXa85M
+/QM=
+=9mOb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/martiningesen
+
+==================================================================
+
