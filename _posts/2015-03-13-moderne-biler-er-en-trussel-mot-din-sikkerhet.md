@@ -1,14 +1,16 @@
 ---
-layout: post
-title:  "Moderne biler er en trussel mot din sikkerhet"
-subtitle: "Eller: Hvorfor du (kanskje) er tryggere i en 96 Saab enn i en Tesla.*"
-excerpt: "Dagens biler fylles av mer og mer elektronikk. Et avansert og sammensatt nettverk av sensorer, brytere, motorer og mikrokontrollere danner alle funksjonene en moderne bil har å by på. Elektronikken styrer alt ifra blinklys og spylervæske, til automatisk parkeringsassistent, gass, brems og klimaanlegg.
-<br>
-<br>
-Det villeste av alt: Teknologien bak er egentlig ganske enkel."
-date:   2015-03-13 01:46:00
-categories: sikkerhet biler
+layout:     post
+title:      "Moderne biler er en trussel mot din sikkerhet"
+subtitle:   "Eller: Hvorfor du (kanskje) er tryggere i en 96 Saab enn i en Tesla.*"
+date:       2015-03-13 01:46:00
+author:     "Martin Ingesen"
+header-img: "img/post-bg-crash.jpg"
 ---
+
+**Dagens biler fylles av mer og mer elektronikk. Et avansert og sammensatt nettverk av sensorer, brytere, motorer og mikrokontrollere danner alle funksjonene en moderne bil har å by på. Elektronikken styrer alt ifra blinklys og spylervæske, til automatisk parkeringsassistent, gass, brems og klimaanlegg.**
+<br>
+<br>
+**Det villeste av alt: Teknologien bak er egentlig ganske enkel.**
 
 Alt er koblet sammen via et nettverk kalt en CAN bus (Controller Area Network), og fungerer ved at alle sensorene, mikrokontrollere etc, er koplet sammen på én linje, og kan sende og motta signaler - til og fra hverandre. Hver slik sensor kalles en CAN node, eller en ECU (Electronic Control Unit). Sammen utgjør disse bilens interne nervesystem.
 

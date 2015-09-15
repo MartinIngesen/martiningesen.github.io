@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "The Gathering Hacking Competition Writeup"
-subtitle: "Et sammendrag av hvordan jeg og en kamerat tok førsteplass i hackekonkurransen på The Gathering."
-excerpt: "Under årets The Gathering 2015 arrangerte Universitetet i Oslo i samarbeid med The Gathering en hackekonkurranse. Jeg og Nikolai endte opp i samme team, og takket være iherdig innsats vant vi førsteplass! Her er vårt sammendrag av konkurransen og de ulike oppgavene."
-date:   2015-04-13 00:00:00
-categories: hacking writeup
+layout:     post
+title:      "The Gathering Hacking Competition Writeup"
+subtitle:   "Et sammendrag av hvordan jeg og en kamerat tok førsteplass i hackekonkurransen på The Gathering."
+date:       2015-04-13 00:00:00
+author:     "Martin Ingesen"
+header-img: "img/post-bg-tg.jpg"
 ---
+
+**Under årets The Gathering 2015 arrangerte Universitetet i Oslo i samarbeid med The Gathering en hackekonkurranse. Jeg og Nikolai endte opp i samme team, og takket være iherdig innsats vant vi førsteplass! Her er vårt sammendrag av konkurransen og de ulike oppgavene.**
 
 ##AFK
 
