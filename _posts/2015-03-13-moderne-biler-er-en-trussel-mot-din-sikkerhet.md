@@ -5,6 +5,7 @@ subtitle:   "Eller: Hvorfor du (kanskje) er tryggere i en 96 Saab enn i en Tesla
 date:       2015-03-13 01:46:00
 author:     "Martin Ingesen"
 header-img: "img/post-bg-crash.jpg"
+permalink:  "moderne-biler-er-en-trussel-mot-din-sikkerhet/"
 ---
 
 **Dagens biler fylles av mer og mer elektronikk. Et avansert og sammensatt nettverk av sensorer, brytere, motorer og mikrokontrollere danner alle funksjonene en moderne bil har å by på. Elektronikken styrer alt ifra blinklys og spylervæske, til automatisk parkeringsassistent, gass, brems og klimaanlegg.**
