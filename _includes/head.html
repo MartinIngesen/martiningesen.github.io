@@ -33,7 +33,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
     <meta name="twitter:creator" content="@{{ site.twitter_username }}">
     {% if page.title %}
@@ -41,14 +41,15 @@
     {% else %}
       <meta name="twitter:title" content="{{ site.title }} - Martin Ingesen">
     {% endif %}
-    {% if page.url %}
-      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    {% endif %}
-      <meta name="twitter:description" content="{{ site.description }}">
-    {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}/path/to/image/{{ page.image }}">
+    {% if page.subtitle %}
+      <meta name="twitter:description" content="{{ page.subtitle }}">
     {% else %}
-      <meta name="twitter:image:src" content="{{ site.url }}/img/home-bg.jpg">
+      <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
+    {% if page.header-img %}
+      <meta name="twitter:image" content="{{ site.url }}/img/{{ page.header-img }}">
+    {% else %}
+      <meta name="twitter:image" content="{{ site.url }}/img/home-bg.jpg">
     {% endif %}
 
 </head>
