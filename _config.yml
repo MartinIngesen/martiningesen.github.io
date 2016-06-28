@@ -13,7 +13,7 @@ pgp_key: http://pgp.circl.lu/pks/lookup?op=get&search=0xD78FBD59CD638BB3
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
