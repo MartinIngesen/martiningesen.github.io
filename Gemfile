@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'kramdown'
-gem 'jekyll-watch'
-gem 'jekyll-paginate'
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-feed"
+  gem "jekyll"
+end

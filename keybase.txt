@@ -6,17 +6,18 @@ I hereby claim:
 
   * I am an admin of http://martin.ingesen.no
   * I am martiningesen (https://keybase.io/martiningesen) on keybase.
-  * I have a public key with fingerprint 4F53 89AD 88C0 71EF 3320  4CD5 D78F BD59 CD63 8BB3
+  * I have a public key with fingerprint 0396 5084 091A F28F 9688  22AA 9D41 5CA3 3CEC C01F
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "4f5389ad88c071ef33204cd5d78fbd59cd638bb3",
+            "eldest_kid": "01017dc48e03d42e4423f0897f4df98074ae2f4c348eb64ada363182b79b889967140a",
+            "fingerprint": "03965084091af28f968822aa9d415ca33cecc01f",
             "host": "keybase.io",
-            "key_id": "d78fbd59cd638bb3",
-            "kid": "0101b7cc252e85fca6e43c9142e0d273acd1f7feb8e3110f8791fb14a2b5225a99b70a",
+            "key_id": "9d415ca33cecc01f",
+            "kid": "01017dc48e03d42e4423f0897f4df98074ae2f4c348eb64ada363182b79b889967140a",
             "uid": "93777244d3799d014d6fce46f638fc19",
             "username": "martiningesen"
         },
@@ -27,41 +28,36 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1436984260,
+    "ctime": 1483473550,
     "expire_in": 157680000,
-    "prev": "2a6ba0c4ca031cce90285a7438eb8357376e8f1dca9a25246c0a191810286592",
-    "seqno": 6,
+    "prev": "7421e95a00d57d3294a02dc15ec0cc93c09be4dff14b9a986ef985a19121fbf9",
+    "seqno": 23,
     "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Comment: GPGTools - https://gpgtools.org
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
 
-owFtkn9MVWUYxy+IDhAHi8CKm7WDtGZ0O79/XNHAcJbKD23XKGXXc97zHu6JuPdy
-77lcQK8gNAQkQGYCRSaCLOEiAxPXqCW/pkJQmgyTLQM2obU1QS7LZNA5zP5o6/3n
-3fs8n+f7PN9nb/WGNbpgv/Gq794fAScv+w3/LuhMLU3XjyCCTcxDjEeQTLh6SbI1
-AzrsDtmqIEaElCiC5XiRZQHKYFAiCBwlgUiJDCsJIsUBkSZYQSCQWMRic2oVqozA
-O6FBtqkx9WGWRTX6P3zmagLFUExgAMApHLKUBHgakgTgMBKHqIgzBA9ETGIkKLCQ
-wDBUYhkOkwSM5HGBwnGK5ziBQXlVzrUqxxEMw+AkKRIMx4koRoq0BCBJS2pbCWCc
-Bjqhw8pnQZXO4h2KbNUMO6EV8cQiaipHBlDbg2bnP5jhKWewas7sDptiA7aP1LRF
-UexGrVrJs2u4Gwrmp0JmQbaKap1akAMdTtlmRYyYSgJF1pQxkqA5lsRpNBaBuXbZ
-Ac2yRlAMzaLq0drAHFUS52mBRwEJeJTAAIAcirMUz5AEqy6GoBiCoSErYSLgOV7d
-JEkDlMc4jMVUjqY4HNGsZauDG2l1TD5DlXSulzOsvOJyQMQTXOavD9D5BevWrfXX
-PoUuOCjs35+SPxi6bCi/zeaF3ZiD8zAgOX9skh4I5e/mtuvTarbVyLeSv+9316ad
-iFkTmRrjeySyS+jlqcTRq19HbN6bHeVXprt2b6Y5abHDZ/EUDE2+cTGQECfj04vy
-I3Dy5W1j902ZAzpvS3+yra+CRuomPmNDztUQiy+NVv5im1R+/eZsYMq7Sm/jgM78
-oLBTCr/zfP6OEKXrufvu9uJnxq/91Amv9Cx9OxdXUfZDQnrka0uBDaV6Q/jNvpJ7
-+K4IY8jMnj8OdjfdPnDx2Z5XL5WMXTm9r6nsQsKdochaqroijXjoeZA6Wtz69ubY
-xa1vdkwonTdmX3SScdRImKe4fcEL/Of3J+nB4PGABJNQPnt+qDX4hbvY0A7Xhz+v
-LW9cOFY6SKKf9Bjn6ndf2joR2nh8e3xQSVB3dKnl8xGxfk/Zob9sron+luGo6U2t
-V8+VxkvFC+FE4i330X3euMG+Pz9tSNr78aadXzxJ2V+YUXUdm6Z6u2aTN0A0/vH0
-sK8taYt/mJl0vff3B4tfHr5ZaflKOXA0vfa3H8sjDzVc6PAW1BdFbezUN7edb37L
-fz70cVg4edIg+wrOnoiOeadyubptNrvkldTlkqknpxIEb+suuvBw7nhS9EZXit3e
-HDTS66gzZRWZVo6dnjF0nVm/DnnYV+48uOK2VNVt2T7rSxxSumsb7Kkrj+jXa85M
-/QM=
-=9mOb
+yMIjAnicrZJpaBQxGIZnq1a73lJvVBilXktNJpkji1LBEy9Ei1ZRlkwmsx1tZ9eZ
+2VZZC2o9QRQPFKvi0YJIBW8Fq9JKi2K12kqpCKIIBUX8LVZQMx4/BH+aPyHJ877f
++32keWAvKRpB99o/ZecsnBBpbTqXkUrKcg5kZTNlbZHjWXkj/7nxMov7QWKjY8lx
+GUAAdYthgwNkYYVjrCAbGES3sWUTA+iYcsXGDAnC1DC1KNIQNBRTJ6ZhEKLpEAMq
+x2TbcZPcS3uOG4S2iGgqMDAgkNqKYRPNMBSFUmJhqDKKEOOMAWgLYWnKDxUinEl9
+XuikxJ04JH7G+wf/n3NnftVBuq4rGFtIJ8QCEFuazTjWbA0ZNoMkBH3uubScC7qc
+eoHjhg373JWrYrJ4qnAYD6cbtvMXVvibK3TDztJeKkixVJl4Lg2CdDxUB1vSIV7J
+zcRvo4TpuJbQCUEF93wn5cpxKEgWOKEzxAbCOlJVEJP55rTj8YQTEqquGUCssAyv
+EJY6ViAnKgXAUnULKQRToFgMqpwBxghigJhcDMyG2CSUGBoXs1MpJFCBtmmHbft8
+kwgeV5DISZPC03eSLg0yHperHjSu6y1FolJun5zwp0nRvCF//t+GUX2/L6npvLVm
+/sgBJw5v31U1dDD/xupbB6nVk65M+/bwyr1DRdXPi4+2LL/0Vm6bODu/qyS/ehzt
+YxfMbtm5qK1IafIfXM/2ZFa/Cxru3D3zasb77LBrmX5lkZ7b3Y9S0xsu7ggm9788
+/On2Bg1+mNqMx055q0Xbuxue1Ny8tPJ1/baS2oKlW2u/PH59Vso52LWvsf3rngXP
+8kYP1M/EXpw8xRp7lecOKD02Lio3dWyq7V93tXhFUQ/3Em0XztfN7KDSwcik/L2J
+5OF38/jLyvuZh7sXvxmfs39E5/GPscjLBc3FudFV6yv3G93LTg8ZU3LkeO6N1gNz
+C8ZKE0CSzuqRqlqaJrd8XvsDzKY7OQ==
+=HwGv
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -70,4 +66,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/martiningesen
 
 ==================================================================
-

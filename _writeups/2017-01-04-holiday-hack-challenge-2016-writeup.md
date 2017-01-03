@@ -2,10 +2,10 @@
 layout:     post
 title:      "Holiday Hack Challenge 2016 writeup"
 subtitle:   "Who abducted Santa?"
-date:       2017-01-04 00:00:00
+date:       2017-01-03 00:00:00
 author:     "Martin Ingesen"
 header-img: "img/post-bg-hexdump.jpg"
-permalink:  "holiday-hack-challenge-2016-writeup/"
+permalink:  "writeups/holiday-hack-challenge-2016-writeup/"
 ---
 
 ### Preface

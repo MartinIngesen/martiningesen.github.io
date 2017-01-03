@@ -10,33 +10,33 @@ permalink:  "the-gathering-hacking-competition-writeup/"
 
 **Under årets The Gathering 2015 arrangerte Universitetet i Oslo i samarbeid med The Gathering en hackekonkurranse. Jeg og Nikolai endte opp i samme team, og takket være iherdig innsats vant vi førsteplass! Her er vårt sammendrag av konkurransen og de ulike oppgavene.**
 
-##AFK
+## AFK
 
-###QR
+### QR
 
 Oppgaven sier at vi skal finne en QR-kode, og gir oss et bilde som hint. Det er trygt å anta at bildet inneholder informasjon om hvor vi skal gå for å finne QR-koden. Jeg kastet bildet rett inn i en online [EXIF-viewer](http://regex.info/exif.cgi) og fikk opp et kart rett utenfor Vikingskipet! På med skoa!
 
 En liten detalj når vi fant QR-koden; Vi scannet den og fikk en viss [YouTube-video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) i ansiktet. Det tok litt tid før vi forstod at dette i realiteten var token til oppgaven.
 
-###Lockpicking 1
+### Lockpicking 1
 
 Med litt dårlige låser i år, så ble konkurransen kanskje litt hardere enn før, men jeg var tidlig ute og fikk prøvd meg frem på litt forskjellige låser. Dermed traff jeg én som var ganske grei og poppet opp på kort tid.
 
-###Lockpicking 2
+### Lockpicking 2
 
 Jeg tok denne samtidig som jeg tok Lockpicking 1, og hadde tilsvarende fremgangsmåte for å finne en lås som var grei å dirke.
 
-###Funky funge
+### Funky funge
 
 På UiO-standen var det en plakat av en kryptisk "firkant" som vi måtte finne ut hva var. Jeg tok et bilde og gikk (les; løp) tilbake til plassen min for å starte Googlingen. Jeg fikk tidlig nys om at dette kunne være et esoterisk programmeringsspråk. [Wikipedia artikkelen](http://en.wikipedia.org/wiki/Esoteric_programming_language) var her til stor hjelp. Koden på plakaten innehold det som så ut som mange piler, så jeg scannet Wikipedia-artikkelen etter noe som kunne likne. Der fant jeg språket "Befunge" som virket 'right down my alley'. Et kjapt Google-søk til, og jeg fant en online [Befunge-kompilator](http://www.tutorialspoint.com/compile_befunge_online.php). Ved å plotte inn koden, kompilere og kjøre programmet, så ble løsningen på oppgaven "TG_OiU"!
 
-###Hidden in plain sight
+### Hidden in plain sight
 
 Forferdelig oppgave der vi skulle finne en kode på en PC-skjerm som hadde fått det polariserende filteret fjernet (ergo, skjermen var nesten helt hvit). Med litt finurlig bruk av et plastglass var det alikevel mulig å såvidt tyde token. (Neste år tar jeg med polariserte solbriller...)
 
-##Crypto
+## Crypto
 
-###IBM
+### IBM
 
 Ved å besøke siden oppgitt, ble man møtte av denne rare teksten:
 
@@ -55,11 +55,11 @@ Yay!
 
 Dette var ikke den *egentlige* løsningen på oppgaven, da den riktige encodingen *egentlig* er EBCDIC (Extended Binary Coded Decimal Interchange Code), noe som ville gjort konverteringen *enda* enklere. Menmen.
 
-###Authenticate
+### Authenticate
 
 /todo
 
-###Key trouble
+### Key trouble
 
 Vi ble gitt en offentlig nøkkel og en chiffertekst som vi måtte dekryptere.
 
@@ -67,34 +67,34 @@ Vi antok raskt at det var snakk om en svak privat nøkkel, og kom fort frem til 
 
 Ved å benytte et [Python-script](https://github.com/pablocelayes/rsa-wiener-attack) fant vi eksponenten og modulusen fra den offentlige nøkkelen. På denne måte var det bare å sette de sammen til en private nøkkel, slik at vi kunne dekryptere meldingen og få token.
 
-##Web
+## Web
 
 
-###First web
-
-/todo
-
-###Warmup
+### First web
 
 /todo
 
-###Crumble
+### Warmup
 
 /todo
 
-###¿Hello?
+### Crumble
 
 /todo
 
-###Secure zone
+### ¿Hello?
 
 /todo
 
-###Privileged
+### Secure zone
 
 /todo
 
-##Reverse Engineering
+### Privileged
+
+/todo
+
+## Reverse Engineering
 
 ### easy 1
 
@@ -114,19 +114,19 @@ Ved å benytte et [Python-script](https://github.com/pablocelayes/rsa-wiener-att
 
 ## Remote
 
-###Good O'l Windows XP
+### Good O'l Windows XP
 
 /todo Metasploit'ed
 
-###A bloggers best friend is her pc
+### A bloggers best friend is her pc
 
 /todo Metasploit'ed
 
-###Coolest shell ever
+### Coolest shell ever
 
 /todo
 
-##Forensics
+## Forensics
 
 ### Data Recovery
 
