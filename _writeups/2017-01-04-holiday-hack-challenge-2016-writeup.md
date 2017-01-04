@@ -10,6 +10,7 @@ permalink:  "writeups/holiday-hack-challenge-2016-writeup/"
 
 ### Preface
 
+Another christmas, another holiday hack challenge! Last year was a blast, so I can't wait to start this one! I won't be covering anything in game, but only the tasks as written on the holiday hack challenge website. I did however manage to get all achievements, but I won't cover that here.
 
 ### Part 1: A Most Curious Business Card
 
