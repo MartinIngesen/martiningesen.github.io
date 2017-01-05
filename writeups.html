@@ -5,7 +5,7 @@ title: "Writeups"
 {% assign writeups = site.writeups | sort:"date" | reverse %}
 
 {% for post in writeups %}
-<!-- <div class="post-preview">
+<div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
@@ -17,7 +17,7 @@ title: "Writeups"
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
-<hr> -->
+<hr>
 {% endfor %}
 
 <!-- Pager -->
