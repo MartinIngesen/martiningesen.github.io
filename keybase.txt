@@ -4,60 +4,60 @@ https://keybase.io/martiningesen
 
 I hereby claim:
 
-  * I am an admin of http://martin.ingesen.no
+  * I am an admin of https://martin.ingesen.no
   * I am martiningesen (https://keybase.io/martiningesen) on keybase.
-  * I have a public key with fingerprint 0396 5084 091A F28F 9688  22AA 9D41 5CA3 3CEC C01F
+  * I have a public key with fingerprint 2B85 87AF B6AE 3D55 9F18  776E 08A6 B757 9325 3C85
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01017dc48e03d42e4423f0897f4df98074ae2f4c348eb64ada363182b79b889967140a",
-            "fingerprint": "03965084091af28f968822aa9d415ca33cecc01f",
-            "host": "keybase.io",
-            "key_id": "9d415ca33cecc01f",
-            "kid": "01017dc48e03d42e4423f0897f4df98074ae2f4c348eb64ada363182b79b889967140a",
-            "uid": "93777244d3799d014d6fce46f638fc19",
-            "username": "martiningesen"
-        },
-        "service": {
-            "hostname": "martin.ingesen.no",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01016cb764e1362e3e3b3ae2493faf5aed9ff5ac2ceb0aff28586aef94d1360cc61d0a",
+      "fingerprint": "2b8587afb6ae3d559f18776e08a6b75793253c85",
+      "host": "keybase.io",
+      "key_id": "08a6b75793253c85",
+      "kid": "01016cb764e1362e3e3b3ae2493faf5aed9ff5ac2ceb0aff28586aef94d1360cc61d0a",
+      "uid": "93777244d3799d014d6fce46f638fc19",
+      "username": "martiningesen"
     },
-    "ctime": 1483473550,
-    "expire_in": 157680000,
-    "prev": "7421e95a00d57d3294a02dc15ec0cc93c09be4dff14b9a986ef985a19121fbf9",
-    "seqno": 23,
-    "tag": "signature"
+    "service": {
+      "hostname": "martin.ingesen.no",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1518522766,
+  "expire_in": 157680000,
+  "prev": "035b9dbb2189bb28781aae394a72f4a6b3fda2eebac8ddc9a753e2ecbddf9b45",
+  "seqno": 30,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.61
+Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 
-yMIjAnicrZJpaBQxGIZnq1a73lJvVBilXktNJpkji1LBEy9Ei1ZRlkwmsx1tZ9eZ
-2VZZC2o9QRQPFKvi0YJIBW8Fq9JKi2K12kqpCKIIBUX8LVZQMx4/BH+aPyHJ877f
-+32keWAvKRpB99o/ZecsnBBpbTqXkUrKcg5kZTNlbZHjWXkj/7nxMov7QWKjY8lx
-GUAAdYthgwNkYYVjrCAbGES3sWUTA+iYcsXGDAnC1DC1KNIQNBRTJ6ZhEKLpEAMq
-x2TbcZPcS3uOG4S2iGgqMDAgkNqKYRPNMBSFUmJhqDKKEOOMAWgLYWnKDxUinEl9
-XuikxJ04JH7G+wf/n3NnftVBuq4rGFtIJ8QCEFuazTjWbA0ZNoMkBH3uubScC7qc
-eoHjhg373JWrYrJ4qnAYD6cbtvMXVvibK3TDztJeKkixVJl4Lg2CdDxUB1vSIV7J
-zcRvo4TpuJbQCUEF93wn5cpxKEgWOKEzxAbCOlJVEJP55rTj8YQTEqquGUCssAyv
-EJY6ViAnKgXAUnULKQRToFgMqpwBxghigJhcDMyG2CSUGBoXs1MpJFCBtmmHbft8
-kwgeV5DISZPC03eSLg0yHperHjSu6y1FolJun5zwp0nRvCF//t+GUX2/L6npvLVm
-/sgBJw5v31U1dDD/xupbB6nVk65M+/bwyr1DRdXPi4+2LL/0Vm6bODu/qyS/ehzt
-YxfMbtm5qK1IafIfXM/2ZFa/Cxru3D3zasb77LBrmX5lkZ7b3Y9S0xsu7ggm9788
-/On2Bg1+mNqMx055q0Xbuxue1Ny8tPJ1/baS2oKlW2u/PH59Vso52LWvsf3rngXP
-8kYP1M/EXpw8xRp7lecOKD02Lio3dWyq7V93tXhFUQ/3Em0XztfN7KDSwcik/L2J
-5OF38/jLyvuZh7sXvxmfs39E5/GPscjLBc3FudFV6yv3G93LTg8ZU3LkeO6N1gNz
-C8ZKE0CSzuqRqlqaJrd8XvsDzKY7OQ==
-=HwGv
+yMIiAnicrZJbSBRRGMfXrKTtthVJT1EjlOW6zcyZ60JgUBBREBoVu8VybqOz5sw6
+M7uWJpRdn4pWIuh+IajMkPUhgi5a7osbhNVLIUQ3FAmJikoi60zZQ/TaeTiHc77f
+/3++7zunb2ZxIFi0yAp9yZc9J0WF3ovpQKxt4EgLh2yyi4u2cPX010J3EOp6iXqT
+cFGOF3hBwUhVJCoARaSAAgQgFSUdGNCQISW6wRYsYop4aBiiJmsKpIYuEcbzGCsC
+4SEX5gzTqqVOyjEtj9mKiHEqNBBjAZFl3RA0VVUor0EFqbKqA1EGWJOZsM52fQVL
+DkGXRkybnbFN4nd6//L/Oe/0LzsdqKoqShIBqq4TXpCIYmAqKYYCNAMLug+61LFg
+A2V0A3Q80/ILdqnFtYY5FsqYmPrd9cv5C4tMcBHLryzl2J6N7R0sXOd5KTfqy71d
+KZ9voigx4ZRApkWYkCky1HFN2+KiAiOxZ/rWgixosiiqihLm6M6U6dCE6ROyqmg8
+G/49NOO3CchIJwiJgqazWVM1AbIX0SWoiobEegsMAkVKEcQaIViHqgyoSDEixNCR
+5PfbpY0s8yhgph6sZZ6uWWtBL+1QrvV+z7bJgaJgYOqUSf5XCwSnhf58wFXXSsbD
+9qaySFA/3PXaunq6dXRtVfzsm7vt/YX+8lMPp/fx9vbq73cufq+xvt5+kg8+WO2W
+1mwqu3ersmP3+/kDYx83HLqx+UUFrjo5Lfl045oDI59iY6eq+fiVphXJ57lsQ/bH
+nN4b63Z+O9ZbMB8X38wnHyn7yGhxcH22bfX67g18acXw+XylFY8v5nJ7u53gvK66
+pVPPGUczb5K5C1WzYbqR68wtaBresrznFbhUnotstBdsGelsX3ni47sYOljy+O2M
+40tJh3YG5K/n8csroQ/lg1s3h85Xu3WJWXLNkmfN9cdB8+XBZXPb20Ivhl4NfZbH
+F44PXj7aENtfKOiH0tk9PwE8Bkl/
+=Kmf3
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
